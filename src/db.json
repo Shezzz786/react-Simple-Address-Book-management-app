@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "d7d82122-b462-4f86-a4e0-e2a79af2cf21",
+      "name": "mr ex",
+      "mobile": "9135308312"
+    },
+    {
+      "id": "c6654348-db1a-43e6-8c72-be8b91588064",
+      "name": "sahjad ansari",
+      "mobile": "6261456189"
+    },
+    {
+      "id": "d818b782-c4c9-4a94-b2a4-b468bc727ad8",
+      "name": "nnnnnnnnn",
+      "mobile": "9661792435"
+    }
+  ],
+  "comments": [
+    {
+      "id": "",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
